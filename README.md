@@ -1,7 +1,7 @@
 
 ![](https://github.com/Non1ce/Image_Non1ce/blob/no_nice/GIF.gif)
 
-# Installation instructions
+## 𝙸𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐
 1) `git clone https://github.com/Non1ce/Intro_to_GIF.git`
 2) Далее переходим на сайт [Codepen](https://codepen.io) и загружаем:
    * *index.html* в раздел HTML;
