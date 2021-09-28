@@ -6,11 +6,11 @@
 
 1) `git clone https://github.com/Non1ce/Intro_to_GIF.git`
 
-2) Далее переходим на сайт [Codepen](https://codepen.io) и загружаем:
-   * *index.html* в раздел HTML;
-   * *script.js* в раздел JS; (Использовалась библиотека [Typeit](https://typeitjs.com) для анимации текста, на сайте представлена подробная документация)
-   * *style.css* в раздел CSS. 
+2) Next, go to the website [Codepen](https://codepen.io) and upload:
+   * *index.html* to the section HTML;
+   * *script.js* to the section JS; (The [Typeit](https://typeitjs.com) library was used for text animation, detailed documentation is provided on the website)
+   * *style.css* to the section CSS. 
 
-3) Редактируем текст с помощью библиотеки Typeit и записываем видео работы скрипта с помощью любого доступного видеоредактора.
-4) Устанавливаем программу [FFmpeg](https://ffmpeg.org) и запускаем модуль `main.py`, преобразовываем видео в gif с помощью библиотеки [ffmpeg-python](https://github.com/kkroening/ffmpeg-python). 
-5) В конце с помощью Adobe Photoshop накладываем маску с закругленными углами на gif ([первое видео](https://www.youtube.com/watch?v=Ppdb6iodDgI), [второе видео](https://www.youtube.com/watch?v=6YoX8Soz7_8)) и сохраняем файл в формате gif.
+3) We edit the text using the Typeit library and record a video of the script using any available video editor.
+4) Install the program [FFmpeg](https://ffmpeg.org) and run the module `main.py`, converting video to gif using the [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) library.
+5) At the end, using Adobe Photoshop, we apply a mask with rounded corners to the gif ([first video](https://www.youtube.com/watch?v=Ppdb6iodDgI), [second video](https://www.youtube.com/watch?v=6YoX8Soz7_8)) and save the file in gif format.
