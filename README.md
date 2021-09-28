@@ -1,6 +1,3 @@
-[![](https://img.shields.io/badge/Production-Non1ce-533849?style=flat&logo=appveyor)](https://github.com/Non1ce)
-![Visits Badge](https://badges.pufler.dev/visits/Non1ce/Intro_to_GIF?style=flat&logo=appveyor&color=533849) 
-[![Slack](https://img.shields.io/badge/Slack-533849?style=flat&logo=Slack&logoColor=white)](https://opendatascience.slack.com/team/U0242E4H1MH)
 
 ![](https://github.com/Non1ce/Image_Non1ce/blob/no_nice/GIF.gif)
 
